@@ -2,13 +2,13 @@
 
 I'm RichGod from Nigeria, and I 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <img src="https://giphy.com/media/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100%" height="100%"/>
   </div>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-  <p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
+<!--   <p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p> -->
 
 <!--
 **RichGod93/RichGod93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

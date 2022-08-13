@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=RichGod93&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    Hey there
+    Hey there, I'm RichGod Usen
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
@@ -34,7 +34,7 @@
 
 
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 👯 I’m looking to collaborate on really great project ideas
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richgod-usen-9503201b6/)
 

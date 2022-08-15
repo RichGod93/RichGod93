@@ -56,8 +56,4 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichGod93&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichGod93&layout=compact&theme=vision-friendly-dark)](https://github.com/RichGod93/github-readme-stats)

@@ -55,7 +55,5 @@
 </div>
 
 ---
-<a href="https://app.daily.dev/RichGodDevs"><img src="https://api.daily.dev/devcards/865c8bb7d6504d3e9b1fe1608d52f6f0.png?r=ym0" width="400" alt="RichGod Usen's Dev Card"/></a>
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichGod93&layout=compact&theme=vision-friendly-dark)](https://github.com/RichGod93/github-readme-stats)

@@ -53,7 +53,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichGod93&layout=compact&theme=vision-friendly-dark)](https://github.com/RichGod93/github-readme-stats)

@@ -28,11 +28,6 @@
 </div>
 
 
-<!-- ![RichGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichGod93&hide=contribs,prs&show_icons=true&theme=dark)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichGod93&layout=compact&theme=dark)](https://github.com/RichGod93/github-readme-stats) -->
-
-
 ### :man_technologist: About Me :
   A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 👯 I’m looking to collaborate on really great project ideas

@@ -29,8 +29,6 @@
 
 
 ### :man_technologist: About Me :
-  A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- 👯 I’m looking to collaborate on really great project ideas
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richgod-usen-9503201b6/)
 
 ---

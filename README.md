@@ -2,7 +2,7 @@
 
 A <b>Software Engineer</b> specialising in <b>Frontend Development</b>.
 
-As a self-motivated and passionate Developer, I have experience and knowledge in a wide range of programming languages and tools, including JavaScript, TypeScript, React, Next, Firebase, and Appwrite. I excel at confronting complex problems and applying my knowledge to write efficient, high-quality code.<br/>
+As a self-motivated and passionate Developer, I have experience and knowledge in a wide range of programming languages and tools, including JavaScript, TypeScript, React, React-Native, Next, Firebase, and Appwrite. I excel at confronting complex problems and applying my knowledge to write efficient, high-quality code.<br/>
 
 I am dedicated to staying up to date with the latest trends and best practices in Frontend Development, motivated by a desire for continuous learning and growth. My ultimate goal is to be an invaluable member of any team, collaboratively working with my peers to deliver cutting-edge solutions that push the boundaries of what is possible in this exciting field.<br/>
 

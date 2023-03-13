@@ -11,7 +11,6 @@ Let's work together to create innovative, game-changing products that change the
 # About me :
 - 👩‍💻 Pronouns: "He or Him".
 - 👷🏾‍♂️ I'm currently working on various projects that include JavaScript, TypeScript, React.js, Next.js, React-Native, Firebase, and Appwrite.
-- 📚 In my free time, I learn more about <b>Rust</b>.
 - 🔭 At the moment, I'm exploring Frontend Mobile Development.
 - 💬 Ask me anything about React.js, Next.js, Firebase, and Appwrite.
 - 🆕 I started an <b>OPEN SOURCE</b> project called <b>ADUN SOCIAL</b>. It is a social network for students of Admiralty University of Nigeria to interact and connect with eachother. Feel free to check it out and become a contributor, it's pinned 🔽.

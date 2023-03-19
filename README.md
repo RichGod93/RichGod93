@@ -24,10 +24,8 @@ Let's work together to create innovative, game-changing products that change the
 
 # Technologies:
 
-#### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,materialui,react,next,nodejs)
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=rust,go)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,materialui,react,next,nodejs)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=firebase,appwrite)
 #### Tools

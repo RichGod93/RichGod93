@@ -25,9 +25,9 @@ My ultimate aspiration is to be an invaluable asset to any team, fostering colla
 # Technologies:
 
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,materialui,packagejs,react,vue,next,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,nodejs,tailwindcss,materialui)
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=firebase,appwrite,postgresql,mysql,mariadb)
+![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,appwrite)
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,xd)
 

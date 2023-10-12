@@ -2,11 +2,11 @@
 
 A <b>Software Engineer.</b>
 
-Hi, I'm RichGod Usen, a Software Engineer 💻, I have experience and knowledge in a wide range of programming languages and tools, including JavaScript, React, Vue, PackageJS, Firebase, Git, GitHub, PostgreSQL. <br/>
+ Hello, I'm RichGod Usen, a dedicated Software Engineer 💻 with over 3 years of hands-on experience. My proficiency spans a diverse range of programming languages and tools, including JavaScript, React, Vue, PackageJS, Firebase, Git, GitHub, and PostgreSQL.
 
-I excel at confronting complex problems and applying my knowledge to write efficient, high-quality code. I am dedicated to staying up to date with the best practices in Software Engineering, motivated by a desire for continuous learning and growth. <br/>
+My strength lies in tackling intricate challenges and crafting efficient, top-tier code. I'm committed to maintaining up-to-date knowledge and best practices in Software Engineering, driven by a relentless pursuit of continuous improvement and growth.
 
-My ultimate goal is to be an invaluable member of any team, collaboratively working with my peers to deliver cutting-edge solutions that push the boundaries of what is possible in this exciting field. Let's work together to create innovative, game-changing products that change the world for the better!
+My ultimate aspiration is to be an invaluable asset to any team, fostering collaborative efforts to deliver cutting-edge solutions that push the boundaries of what's achievable in this dynamic field. Let's collaborate to create innovative, game-changing products that positively impact our world! 
 
 # About me :
 - 👩‍💻 Pronouns: "He or Him".
@@ -25,11 +25,11 @@ My ultimate goal is to be an invaluable member of any team, collaboratively work
 # Technologies:
 
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,materialui,react,next,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,materialui,packagejs,react,vue,next,nodejs)
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=firebase,appwrite)
+![My Skills](https://skillicons.dev/icons?i=firebase,appwrite,postgresql,mysql,mariadb)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,ai,ps,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,xd)
 
 # 📊 GitHub Stats:
 [![RichGod's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RichGod93&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RichGod93/github-readme-stats#gh-dark-mode-only)

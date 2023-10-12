@@ -8,10 +8,11 @@ My ultimate aspiration is to be an invaluable asset to any team, fostering colla
 
 # About me :
 - 👩‍💻 Pronouns: "He or Him".
-- 👷🏾‍♂️ I'm currently working on various projects that include JavaScript, React.js, Next.js, React-Native, Firebase, and PackageJS.
-- 🔭 At the moment, I'm exploring Frontend Mobile Development.
-- 💬 Ask me anything about React.js, Next.js, Firebase, and Appwrite.
+- 👷🏾‍♂️ I'm currently working on various projects that include JavaScript, PackageJS, React.js, Vue, Next.js, PostgreSQL, MariaDB, MySQL and Firebase.
+- 🔭 At the moment, I'm exploring Full-Stack Web Development.
+- 💬 Ask me anything about JavaScript, PackageJS, React.js, Vue, PostgreSQL, MariaDB, MySQL, and Firebase.
 - 🆕 I started an <b>OPEN SOURCE</b> project called <b>ADUN SOCIAL</b>. It is a social network for students of Admiralty University of Nigeria to interact and connect with eachother. Feel free to check it out and become a contributor, it's pinned 🔽.
+- Also, if you're looking for resources to get started with PackageJS, check the pinned packagejs-resources repository below 🔽.
 - 💼 I’m available for hire and open to new job opportunities.
 
 # Connect with me!

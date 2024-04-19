@@ -1,6 +1,6 @@
 ## Hi there 👋 I am RichGod
 
-Hello, I'm RichGod Usen, a dedicated Software Engineer 💻 with over 3 years of hands-on experience. My proficiency spans a diverse range of programming languages and tools, including JavaScript, React, Vue, PackageJS, Firebase, Git, GitHub, and PostgreSQL.
+Hello, I'm RichGod Usen, a dedicated Software Engineer 💻 with over half a decade of hands-on experience. My proficiency spans a diverse range of programming languages and tools, including JavaScript, React, Vue, PackageJS, Firebase, Git, GitHub, and PostgreSQL.
 
 My strength lies in tackling intricate challenges and crafting efficient, top-tier code. I'm committed to maintaining up-to-date knowledge and best practices in Software Engineering, driven by a relentless pursuit of continuous improvement and growth.
 

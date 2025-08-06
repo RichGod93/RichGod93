@@ -28,7 +28,7 @@ My ultimate aspiration is to be an invaluable asset to any team, fostering colla
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,appwrite)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,cursor,git,github,docker,postman,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,xd)
 
 # 📊 GitHub Stats:
 [![RichGod's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RichGod93&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/RichGod93/github-readme-stats#gh-dark-mode-only)

@@ -1,6 +1,6 @@
 # bffgen 🚀 (Current Project)
 
-I’m currently building **[bffgen](https://github.com/richgodusen/bffgen)** — a Go-based CLI tool that helps developers quickly scaffold **Backend-for-Frontend (BFF)** services.  
+I’m currently building **[bffgen](https://github.com/RichGod93/bffgen)** — a Go-based CLI tool that helps developers quickly scaffold **Backend-for-Frontend (BFF)** services.  
 It makes it easier to **aggregate backend endpoints**, **expose frontend-friendly APIs**, and even generate **Postman collections** for testing with minimal setup.
 
 I’d love to **collaborate with developers (especially Go enthusiasts)** who are interested in platform fine-tuning, backend-for-frontend patterns, and building dev tools that simplify API integration.

@@ -21,7 +21,7 @@ I’m a **Software Engineer** 💻 with over half a decade of experience. My wor
 ---
 
 # 📂 Notable Projects
-- **[bffgen](https://github.com/richgodusen/bffgen)** → 🚀 A Go CLI for scaffolding Backend-for-Frontend (BFF) services (Open Source, call for contributors)
+- **[bffgen](https://github.com/RichGod93/bffgen)** → 🚀 A Go CLI for scaffolding Backend-for-Frontend (BFF) services (Open Source, call for contributors)
 - **ADUN SOCIAL** → A social network for students of Admiralty University of Nigeria (Open Source, pinned)
 
 ---

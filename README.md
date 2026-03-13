@@ -40,7 +40,7 @@ I’m a **Software Engineer** 💻 with over half a decade of experience. My wor
 ![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,vue,next,nest,nodejs,tailwindcss,materialui)
 
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase,appwrite)
+![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,appwrite)
 
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,xd)

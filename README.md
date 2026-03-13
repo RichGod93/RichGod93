@@ -37,7 +37,7 @@ I’m a **Software Engineer** 💻 with over half a decade of experience. My wor
 # 🛠 Technologies
 
 #### Programming Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,vue,next,nodejs,tailwindcss,materialui)
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,vue,next,nest,nodejs,tailwindcss,materialui)
 
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,appwrite)

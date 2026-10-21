@@ -4,10 +4,9 @@
 
 I build payments and identity infrastructure: idempotent transaction flows, queue-driven workers, webhook pipelines, and the dashboards on top of them. I also build developer tooling in Go.
 
-- 🏦 Contract engineer working on **KYC / identity verification** systems
+- 🏦 Software engineer working on **KYC / identity verification** systems
 - ⚙️ Day to day: **TypeScript, Node.js, NestJS, PostgreSQL, Redis, BullMQ, Next.js**
-- 🛠 Building **[bffgen](https://github.com/RichGod93/bffgen)**, an open-source Go CLI, which is also the subject of my MSc thesis
-- 🎓 Finishing an **MSc in Software Engineering**
+- 🛠 Building **[bffgen](https://github.com/RichGod93/bffgen)**, an open-source Go CLI
 - 💬 Ask me about: payments reliability, BFF architecture, queues and background jobs, Go tooling
 
 ---

@@ -1,48 +1,53 @@
-# bffgen 🚀 (Current Project)
+# 👋 Hi, I'm RichGod
 
-I’m currently building **[bffgen](https://github.com/RichGod93/bffgen)** — a Go-based CLI tool that helps developers quickly scaffold **Backend-for-Frontend (BFF)** services.  
-It makes it easier to **aggregate backend endpoints**, **expose frontend-friendly APIs**, and even generate **Postman collections** for testing with minimal setup.
+**Senior Full-Stack Engineer (Fintech / Payments)** based in Nigeria 🇳🇬
 
-I’d love to **collaborate with developers (especially Go enthusiasts)** who are interested in platform fine-tuning, backend-for-frontend patterns, and building dev tools that simplify API integration.
+I build payments and identity infrastructure: idempotent transaction flows, queue-driven workers, webhook pipelines, and the dashboards on top of them. I also build developer tooling in Go.
 
-👉 **Shoot me a DM or open a PR if you’d like to contribute.**
-
----
-
-# 👋 Hi, I am RichGod
-
-I’m a **Software Engineer** 💻 with over half a decade of experience. My work spans full-stack development, backend systems, and developer tools.  
-
-- 🌟 Currently exploring **Go** and applying it to developer experience tooling  
-- 👷🏾‍♂️ Working on various projects with **JavaScript, Next.js, React, Vue, PostgreSQL, MySQL, and Firebase**  
-- 💡 Strong interest in **BFF architectures**, **API aggregation**, and **scalable backend design**  
-- 💬 Ask me anything about **JavaScript, Go, React, Vue, PostgreSQL, MySQL, and developer tooling**
+- 🏦 Contract engineer working on **KYC / identity verification** systems
+- ⚙️ Day to day: **TypeScript, Node.js, NestJS, PostgreSQL, Redis, BullMQ, Next.js**
+- 🛠 Building **[bffgen](https://github.com/RichGod93/bffgen)**, an open-source Go CLI, which is also the subject of my MSc thesis
+- 🎓 Finishing an **MSc in Software Engineering**
+- 💬 Ask me about: payments reliability, BFF architecture, queues and background jobs, Go tooling
 
 ---
 
-# 📂 Notable Projects
-- **[bffgen](https://github.com/RichGod93/bffgen)** → 🚀 A Go CLI for scaffolding Backend-for-Frontend (BFF) services (Open Source, call for contributors)
+# 🚀 Current Project: bffgen
+
+**[bffgen](https://github.com/RichGod93/bffgen)** is a Go CLI that scaffolds production-ready **Backend-for-Frontend (BFF)** services. It aggregates backend endpoints, exposes frontend-friendly APIs, and generates Postman collections for testing, all with minimal setup.
+
+Contributors are welcome, especially Go developers interested in BFF patterns and API-integration tooling. Open an issue or PR, or send me a DM.
 
 ---
 
-# 🌐 Connect with me
-<a href=https://www.linkedin.com/in/richgod-usen-9503201b6/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href=https://twitter.com/riichgod_><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href=https://discord.com/users/RichGod93#3676><img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>  
-<br/>
+# 📂 Selected Work
+
+- **[bffgen](https://github.com/RichGod93/bffgen)**: Go CLI for scaffolding BFF services (open source)
+- **Bulbling247 CMS**: a full custom CMS for a global storytelling/podcast platform, with markdown editor, custom ad slots, cron jobs and AI-automated GitHub Action pipelines
+- **KYC / identity verification platform (Melon)**: payments-adjacent backend work: idempotency, BullMQ job processing, webhook verification
+- 📝 **[4 years into tech.](https://richgodsblog.hashnode.dev/4-years-into-tech)**: what I got wrong, what stuck, and what I'd tell my 2022 self
 
 ---
 
 # 🛠 Technologies
 
-#### Programming Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=ts,js,go,next,nest,react,vue,nodejs,tailwindcss,materialui)
+![My Skills](https://skillicons.dev/icons?i=ts,js,go,nextjs,nestjs,react,nodejs,tailwind)
 
-#### Databases
-![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,appwrite)
+![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker)
 
-#### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman)
+
+Also: BullMQ · Socket.IO · TanStack Query · Zustand
+
+---
+
+# 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/richgod-usen"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/riichgod_"><img align="left" alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://richgod93.substack.com"><img align="left" alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+<a href="mailto:usenrichgod93@gmail.com"><img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
 
 ---
 
